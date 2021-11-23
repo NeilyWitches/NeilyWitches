@@ -2,7 +2,7 @@
 
 My name's Neil and I'm a software developer!
 
-- 🔭 I’m currently working on [Quitter](https://github.com/JortzFromSchool/Quitter)
+- 🔭 I’m currently working on [Quitter](https://quittr.herokuapp.com/#/)
 <!-- - 🌱 I’m currently learning  -->
 - 👯 In collaboration with [Jon Ortiz](https://github.com/JortzFromSchool), [George Tsimis](https://github.com/GGMU1986), and [Matteo Rossant](https://github.com/MRossant).
 <!-- - 🤔 I’m looking for help with ... -->
