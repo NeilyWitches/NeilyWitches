@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**NeilyWitches/NeilyWitches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name's Neil and I'm a software developer!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Quitter](https://github.com/JortzFromSchool/Quitter)
+<!-- - 🌱 I’m currently learning  -->
+- 👯 In collaboration with [Jon Ortiz](https://github.com/JortzFromSchool), [George Tsimis](https://github.com/GGMU1986), and [Matteo Rossant](https://github.com/MRossant).
+<!-- - 🤔 I’m looking for help with ... -->
+- 💬 Ask me about my solo projects! [Mme Solveur](https://neilywitches.github.io/Madame-Solveur/), [Rate My Profs](https://rate-my-profs.herokuapp.com/#/), and [A Statistical Analysis of Beer Pong from Monte Carlo Simulations](https://github.com/NeilyWitches/Beer-Pong-Monte-Carlo/blob/master/beer%20pong.pdf).
+- 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/neil-pandya-610588187/) or [AngelList](https://angel.co/u/neil-pandya-1)!  
+- 😄 Pronouns: He / Him / His
+- ⚡ Fun fact: I composed all the music you hear in my game!
