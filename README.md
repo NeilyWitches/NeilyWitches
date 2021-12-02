@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name's Neil and I'm a software developer!
+My name's [Neil](https://frosty-fermi-9f5bdd.netlify.app/index.html) and I'm a software developer!
 
 - 🔭 I’m currently working on [Quitter](https://quittr.herokuapp.com/#/)
 <!-- - 🌱 I’m currently learning  -->
