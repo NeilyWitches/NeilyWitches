@@ -2,7 +2,7 @@
 
 My name's [Neil](https://frosty-fermi-9f5bdd.netlify.app/index.html) and I'm a software developer!
 
-- 🔭 I’m currently working at Narmi.
+- 🔭 I’m back on the job hunt!
 <!-- - 🌱 I’m currently learning Jasmine, TypeScript, and React hooks -->
 <!-- - 👯 In collaboration with [Jon Ortiz](https://github.com/JortzFromSchool), [George Tsimis](https://github.com/GGMU1986), and [Matteo Rossant](https://github.com/MRossant). -->
 <!-- - 🤔 I’m looking for help with ... -->
