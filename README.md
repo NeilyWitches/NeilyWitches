@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name's [Neil](https://frosty-fermi-9f5bdd.netlify.app/index.html) and I'm a software developer!
+My name's [Neil](https://frosty-fermi-9f5bdd.netlify.app/index.html) and I'm a quant researcher!
 
 - 🔭 I’m back on the job hunt!
 <!-- - 🌱 I’m currently learning Jasmine, TypeScript, and React hooks -->
